@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/marde12345/marde12345">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marde12345&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marde's GitHub Stats" />
+  </a>
+</div>
 
-<!--
-**mardefasma/mardefasma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hold up :cop:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Byte Dance (E-Commerce/Tokopedia)
+- 🌱 I’m currently learning to get a master's degree
+- 👯 I’m looking to collaborate on doing diving and hiking
+- 📫 How to reach me: `mardefasma123up@gmail.com` or `mardefasmau@gmail.com`
+- ⚡ Fun fact: I am a cumlaude fresh graduate of Computer Science at Sepuluh Nopember Institute of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
