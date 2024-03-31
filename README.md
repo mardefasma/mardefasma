@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning to get a master's degree
 - 👯 I’m looking to collaborate on doing diving and hiking
 - 📫 How to reach me: `mardefasma123up@gmail.com` or `mardefasmau@gmail.com`
-- ⚡ Fun fact: I am a cumlaude fresh graduate of Computer Science at Sepuluh Nopember Institute of Technology
+- ⚡ Fun fact: Dont believe in the contribution activity below, greener on real activity every time I push a lot of PR hahaha
 
 <div align="center">
   
